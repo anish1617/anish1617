@@ -27,7 +27,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/anish1617">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anish1617&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish1617&theme=buefy&layout=compact" />
 </a>
@@ -37,7 +37,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anish1997/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anish%1997-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/anish1997/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anish1997-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/an_ish1/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-an_ish1-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:anishmandal1617@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anishmandal1617@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
