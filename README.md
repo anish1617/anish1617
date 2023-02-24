@@ -1,46 +1,21 @@
+# 💫 About Me:
+- 🤔 Exploring new technologies and improving current skills.<br>- 🎓 Completed Bachelors in Information Technology.<br>- 💼 Currently Working as C# .NET Developer.<br>- ✍️️ Pursuing Writing as hobbies/side hustles.
 
 
-<h2> Hey there! 👋  I'm Anish.</h2>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anish1997) 
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anish1617&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anish1617&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anish1617&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-- 🤔 &nbsp; Exploring new technologies and improving current skills.
-- 🎓 &nbsp; Completed Bachelors in Information Technology.
-- 💼 &nbsp; Currently Working as C# .Net Developer.
-- ✍️ &nbsp; Pursuing Writing as hobbies/side hustles.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=anish1617&icon=2&color=1)](https://visitcount.itsvg.in)
 
-- 💻 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  
-- 🛢 &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p>
-&nbsp;<a href="https://www.linkedin.com/in/anish1997/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anish1997-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:anishmandal1617@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anishmandal1617@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-
-<a href="https://github.com/anish1617">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anish1617&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish1617&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
-
-
-⭐️ From [anish1617](https://github.com/anish1617)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
