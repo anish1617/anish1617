@@ -1,4 +1,5 @@
-# 💫 About Me:
+# <h2> Hey there! 👋  I'm Anish.</h2>
+<h3> 👨🏻‍💻 About Me </h3>
 - 🤔 Exploring new technologies and improving current skills.<br>- 🎓 Completed Bachelors in Information Technology.<br>- 💼 Currently Working as C# .NET Developer.<br>- ✍️️ Pursuing Writing as hobbies/side hustles.
 
 
