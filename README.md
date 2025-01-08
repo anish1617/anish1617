@@ -29,8 +29,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/anish1617/)
-- [Twitter](https://twitter.com/anish1617)
-- [Personal Website](https://anish1617.github.io)
+- [LinkedIn](https://www.linkedin.com/in/anish1997/)
 
 Thanks for visiting my profile! Have a great day! 😊
